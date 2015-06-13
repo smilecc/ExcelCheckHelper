@@ -100,8 +100,7 @@ namespace ExcelCheckHelper
                 // 预读取数据
                 try
                 {
-                    Thread th = new Thread(new ThreadStart(operatedExcelHelper.readData));
-                    th.Start();
+                    operatedExcelHelper.readData();
                 }
                 catch (Exception err)
                 {

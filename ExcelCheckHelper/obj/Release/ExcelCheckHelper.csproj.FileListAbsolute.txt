@@ -9,3 +9,4 @@ D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.Properties.Res
 D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.csproj.GenerateResource.Cache
 D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.exe
 D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.pdb
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.csprojResolveAssemblyReference.cache
