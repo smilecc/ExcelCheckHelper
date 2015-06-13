@@ -1,0 +1,23 @@
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\bin\Debug\ExcelCheckHelper.exe.config
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\bin\Debug\ExcelCheckHelper.exe
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\bin\Debug\ExcelCheckHelper.pdb
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.csprojResolveAssemblyReference.cache
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.Form1.resources
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.Properties.Resources.resources
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.csproj.GenerateResource.Cache
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.exe
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.pdb
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.AddDialog.resources
+e:\doc\visual studio 2013\Projects\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.ChangeDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\bin\Debug\ExcelCheckHelper.exe.config
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.exe
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.pdb
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.AddDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.ChangeDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.Form1.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.Properties.Resources.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.csproj.GenerateResource.Cache
+D:\ExcelCheckHelper\ExcelCheckHelper\bin\Debug\ExcelCheckHelper.exe
+D:\ExcelCheckHelper\ExcelCheckHelper\bin\Debug\ExcelCheckHelper.pdb
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.OpenFileConfigDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Debug\ExcelCheckHelper.csprojResolveAssemblyReference.cache

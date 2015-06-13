@@ -1,0 +1,11 @@
+D:\ExcelCheckHelper\ExcelCheckHelper\bin\Release\ExcelCheckHelper.exe.config
+D:\ExcelCheckHelper\ExcelCheckHelper\bin\Release\ExcelCheckHelper.exe
+D:\ExcelCheckHelper\ExcelCheckHelper\bin\Release\ExcelCheckHelper.pdb
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.AddDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.ChangeDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.Form1.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.OpenFileConfigDialog.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.Properties.Resources.resources
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.csproj.GenerateResource.Cache
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.exe
+D:\ExcelCheckHelper\ExcelCheckHelper\obj\Release\ExcelCheckHelper.pdb
